@@ -1,0 +1,34 @@
+[
+  {
+    "image": "img/testimonials-images/client-images/douglas_r.webp",
+    "alt": "Douglas foto",
+    "name": "Douglas Wright",
+    "description": "and his gorgeous cat named Billy",
+    "review": "I often order food for my cat from this store as they offer free shipping. The prices here are quite low, and you can order a lot of great goods by top manufacturers.",
+    "date": "December 15, 2021"
+  },
+  {
+    "image": "img/testimonials-images/client-images/diana_p.webp",
+    "alt": "Diana foto",
+    "name": "Diana Peterson",
+    "description": "with Cooper,her lovely dog",
+    "review": "My Cooper is already 10 years old and for the last 3 years, I have been ordering food, new leashes, and vitamins only at Happy Paw. They sell really high-quality goods!",
+    "date": "February 02, 2022"
+  },
+  {
+    "image": "img/testimonials-images/client-images/john_and_mery.webp",
+    "alt": "John and Merry foto",
+    "name": "John and Mary Roberts",
+    "description": "and their cool rabbit named Snowball",
+    "review": "When we bought Snowball, Mary was very happy, but there were also many questions — we needed a cage, cleaning products, hay, etc. But we easily found all this in Happy Paw!",
+    "date": "March 28, 2022"
+  },
+  {
+    "image": "img/testimonials-images/client-images/dean_w.webp",
+    "alt": "Dean foto",
+    "name": "Dean Williamson",
+    "description": "with Booper,the star of his instagram",
+    "review": "Booper gets all the best from me and the Happy Paw store! I often treat him with some new toys, decorations for his cage, etc. I absolutely trust Happy Paw.",
+    "date": "May 05, 2022"
+  }
+]

@@ -1,0 +1,74 @@
+[
+    {
+       "id":"1",
+       "image":"img/dry-food-images/natural-beef.png",
+       "title":"Natural Beef",
+       "price":"2",
+       "ingredients":"Meat And Bone Meal, Corn Gluten Meal, Animal Fat, Soybean Meal, Natural Flavor.",
+       "category":"dogs"
+    },
+    {
+       "id":"2",
+       "image":"img/dry-food-images/natural-chicken.png",
+       "title":"Natural Chicken",
+       "price":"3",
+       "ingredients":"Deboned Chicken, Chicken Meal, Brown Rice, Corn, Corn Gluten, Meal, Natural Flavor.",
+       "category":"dogs"
+    },
+    {
+       "id":"3",
+       "image":"img/dry-food-images/natural-pork.png",
+       "title":"Natural Pork",
+       "price":"2",
+       "ingredients":"Deboned Lamb, Chicken Meal, Split Peas, Lentils, Chicken Fat, Pork Meal, Dried Chicken, Pea.",
+       "category":"dogs"
+    },
+    {
+        "id":"4",
+        "image":"img/dry-food-images/turkey-pate.png",
+        "title":"Turkey Pate",
+        "price":"1",
+        "ingredients":"Deboned Turkey, Turkey Broth, Turkey Liver, Dried Egg Product, Cranberries, Calcium Carbonate.",
+        "category":"cats"
+     },
+     {
+        "id":"5",
+        "image":"img/dry-food-images/tuna-salmon.png",
+        "title":"Tuna & Salmon",
+        "price":"2",
+        "ingredients":"Chicken, Poultry Broth, Liver, Meat By-Products, Salmon, Tuna, Guar Gum, Minerals.",
+        "category":"cats"
+     },
+     {
+        "id":"6",
+        "image":"img/dry-food-images/chicken-slice.png",
+        "title":"Chicken Slice",
+        "price":"1",
+        "ingredients":"Wheat Gluten, Liver, Chicken, Meat By-Products, Tomatoes, Carrots, Shrimp, Soy Flour, Salt.",
+        "category":"cats"
+     },
+     {
+        "id":"7",
+        "image":"img/dry-food-images/grain-nuts.png",
+        "title":"Grain & Nuts",
+        "price":"3",
+        "ingredients":"Whole Brown Rice, Oat Groats, Wheat Bran, Wheat, Soybean Meal, Soybean Hulls.",
+        "category":"other"
+     },
+     {
+        "id":"8",
+        "image":"img/dry-food-images/fish-food.png",
+        "title":"Fish Food",
+        "price":"5",
+        "ingredients":"Dried Yeast, Ground Brown Rice, Shrimp Meal, Dried Fish Protein Digest, Wheat Gluten.",
+        "category":"other"
+     },
+     {
+        "id":"9",
+        "image":"img/dry-food-images/parrots-food.png",
+        "title":"Parrots Food",
+        "price":"7",
+        "ingredients":"Canary Grass Seed, White Millet, Oat Groats, Ground Corn, Red Millet, Flax Seed.",
+        "category":"other"
+     }
+ ] 

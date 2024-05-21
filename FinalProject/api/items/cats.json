@@ -1,0 +1,34 @@
+{
+    "categoryName": "Товари для котів",
+    "items": [
+      {
+        "id": 1,
+        "name": "Кігтеточка",
+        "description": "Кігтеточка для котів",
+        "price": 500,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 2,
+        "name": "Іграшка мишка",
+        "description": "Іграшка для котів",
+        "price": 150,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 3,
+        "name": "Корм для котів",
+        "description": "Високоякісний корм",
+        "price": 300,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 4,
+        "name": "Лежанка",
+        "description": "Комфортне місце для відпочинку",
+        "price": 700,
+        "img": "https://placehold.co/200"
+      }
+    ]
+  }
+  

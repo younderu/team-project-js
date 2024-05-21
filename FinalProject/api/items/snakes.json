@@ -1,0 +1,33 @@
+{
+    "categoryName": "Товари для змій",
+    "items": [
+      {
+        "id": 1,
+        "name": "Тераріум",
+        "description": "Просторий тераріум для змій",
+        "price": 2500,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 2,
+        "name": "Лампа для обігріву",
+        "description": "Лампа для підтримки оптимальної температури",
+        "price": 967,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 3,
+        "name": "Декорації",
+        "description": "Набір декорацій для тераріуму",
+        "price": 450,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 4,
+        "name": "Корм для змій",
+        "description": "Високоякісний корм для змій",
+        "price": 475,
+        "img": "https://placehold.co/200"
+      }
+    ]
+  }

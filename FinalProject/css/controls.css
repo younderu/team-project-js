@@ -1,0 +1,45 @@
+.button {
+  display: inline-block;
+  padding: 16px 28px;
+  border-radius: 25px;
+  font-weight: 700;
+  font-size: 1.03rem;
+  line-height: 1rem;
+  transition: 0.3s;
+}
+
+.primary-button {
+  background-color: var(--button-bg-primary-color);
+  color: var(--button-text-primary-color);
+}
+
+.secondary-button {
+  background-color: var(--button-bg-secondary-color);
+  color: var(--button-text-secondary-color);
+}
+.primary-button:hover {
+  background-color: var(--button-bg-secondary-color);
+  color: var(--button-text-secondary-color);
+}
+.secondary-button:hover {
+  background-color: var(--button-bg-primary-color);
+  color: var(--button-text-primary-color);
+}
+
+.shopping-button{
+  background-color: var( --button-bg-secondary-color);
+  color: var(--button-text-secondary-color);
+}
+
+.shopping-button:hover{
+    color:var(--button-text-primary-color);
+    background-color:var(--button-bg-primary-color);
+}
+
+.carousel__button {
+  width: 30px;
+  height: 30px;
+  border: 2px solid var(--testimonials-carousel__button-border-color);
+  border-radius: 50%;
+  background-color: var(--testimonials-carousel__button-bg-color);
+}

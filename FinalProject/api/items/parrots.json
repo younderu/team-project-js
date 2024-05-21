@@ -1,0 +1,34 @@
+{
+    "categoryName": "Товари для папуг",
+    "items": [
+      {
+        "id": 1,
+        "name": "Клітка для папуг",
+        "description": "Простора клітка",
+        "price": 600,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 2,
+        "name": "Іграшка дзеркало",
+        "description": "Іграшка для папуг",
+        "price": 80,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 3,
+        "name": "Корм для папуг",
+        "description": "Високоякісний корм",
+        "price": 255,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 4,
+        "name": "Будиночок для папуг",
+        "description": "Чудове місце для відпочинку та сну",
+        "price": 60,
+        "img": "https://placehold.co/200"
+      }
+    ]
+  }
+  

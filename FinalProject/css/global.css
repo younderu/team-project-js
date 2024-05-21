@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  /*outline: 1px solid red;*/
+}
+html {
+  overflow: hidden;
+}
+
+body {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: -30px;
+  bottom: 0;
+
+  overflow-y: scroll;
+
+}
+
+
+:root {
+  scroll-behavior: smooth;
+
+  --primary-font: "PT Sans", sans-serif;
+  --secondary-font: "Baloo 2", cursive;
+  font-family: var(--primary-font);
+
+  --brand-color: #ed6435;
+  --main-bg-color: #faf4f2;
+  --title-text-color: #3c3731;
+  --basic-text-color: #958b7e;
+  color: var(--basic-text-color);
+
+  --slider-stock-color: #61a854;
+  --slider-line: #edf0f5;
+  --slider-featured-product-title: #232323;
+  --header-link-color: #6b6b6b;
+  --header-info-bg-color: #f2e8e4;
+  --button-text-primary-color: #ed6435;
+  --button-text-secondary-color: #45c1c7;
+  --button-bg-primary-color: #ffe6d4;
+  --button-bg-secondary-color: #b2e7e9;
+  --button-bg-buyspace-color: #ffe6d4;
+  --socials-button-bg-hover-color: #32a1a7;
+  --button-burger-color: #3c3731;
+  --testimonials-header-title-color: #3d3730;
+  --testimonials-header__paragraph-color: #b5aea6;
+  --testimonials-border-color: #ffeee2;
+  --testimonials-carousel__description-color: rgb(237, 100, 53);
+  --testimonials-carousel__review-color: rgb(179 179 179);
+  --testimonials-carousel__date-color: #3c3731;
+  --testimonials-carousel__button-border-color: rgb(69, 69, 69);
+  --testimonials-carousel__button-bg-color: #ffeee2;
+  --arrivals__arrow-button: #686560;
+  --arivals__price-color: #ed6435;
+  --arivals__button-color: #b2e7e9;
+  --trending__arrow-button: #686560;
+  --trending__price-color: #ed6435;
+  --trending__button-color: #b2e7e9;
+  
+  --title-text-color: #3c3731;
+  --highlight-text-color: #ed6435;
+  --border-slide-color: #ffe6d4;
+
+  --call-us-background-color: #f9f4f2;
+  --call-us__title-color: #45c1c7;
+  --call-us__text-color: #95887e;
+  --call-us__link-sale-week-color: #3c3731;
+  --call-us__arrow-color: #45c1c7;
+  --call-us__input-backround-color: #f4e6e2;
+  --call-us__button-backround-color: #ffe6d4;
+  --call-us__button-backround-hover-color: #b2e7e9;
+  --call-us__button-text-hover-color: #45c1c7;
+
+  --footer__grid-background-color: #f9f4f2;
+  --footer__copyright-background-color: rgb(242, 232, 228);
+  --footer__info-nav-links-item-background-color: #45c1c7;
+  --footer__link-item-font-color: rgb(154, 152, 152);
+  --footer__grid-item-title-font-color: #3c3731;
+  /* footer variables */
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}

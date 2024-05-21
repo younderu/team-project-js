@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "For Snakes",
+    "shortname": "snakes"
+  },
+  {
+      "id": 2,
+      "name": "For Rabbits",
+      "shortname": "rabbits"
+  },
+  {
+      "id": 3,
+      "name": "For Parots",
+      "shortname": "parrots"
+  },
+  {
+      "id": 4,
+      "name": "For Cats",
+      "shortname": "cats"
+  },
+  {
+      "id": 5,
+    "name": "For Dogs",
+    "shortname": "Dogs"
+  }
+]

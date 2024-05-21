@@ -1,0 +1,34 @@
+{
+    "categoryName": "Товари для кроликів",
+    "items": [
+      {
+        "id": 1,
+        "name": "Клітка",
+        "description": "Простора клітка",
+        "price": 800,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 2,
+        "name": "Поїлка для кроликів",
+        "description": "Зручна поїлка",
+        "price": 150,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 3,
+        "name": "Корм для кроликів",
+        "description": "Високоякісний корм",
+        "price": 345,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 4,
+        "name": "Снек для кроликів",
+        "description": "Три снеки, що складаються з лісових горіхів, овочів. 3 шт.",
+        "price": 222,
+        "img": "https://placehold.co/200"
+      }
+    ]
+  }
+  

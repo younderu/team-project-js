@@ -1,0 +1,33 @@
+{
+    "categoryName": "Товари для собак",
+    "items": [
+      {
+        "id": 1,
+        "name": "Поводок",
+        "description": "Міцний поводок",
+        "price": 250,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 2,
+        "name": "М'ячик",
+        "description": "Іграшка для собак",
+        "price": 100,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 3,
+        "name": "Корм для собак",
+        "description": "Високоякісний корм",
+        "price": 350,
+        "img": "https://placehold.co/200"
+      },
+      {
+        "id": 4,
+        "name": "Лежанка",
+        "description": "Комфортне місце для відпочинку",
+        "price": 1400,
+        "img": "https://placehold.co/200"
+      }
+    ]
+  }
