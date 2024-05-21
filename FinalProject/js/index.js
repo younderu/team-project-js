@@ -4,9 +4,7 @@ function init() {
   import("./burger-button.js");
   import("./index.footer.coolOwners.js");
   import("./index.modal.register.partial.js");
-  // import("./index.coolgame.partial.js").then((module) => {
-  //   module.initializeGame();
-  // });
+   import("./index.coolgame.partial.js");
 }
 
 const totalPartials = document.querySelectorAll(
